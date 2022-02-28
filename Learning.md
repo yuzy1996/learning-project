@@ -23,6 +23,8 @@ PPT
 - [shiny函数](https://shiny.rstudio.com/reference/shiny/1.7.0/)
 - [shinyapp部署](https://www.shinyapps.io/admin/#/tokens)
 - [企业级shiny开发](https://xiangyun.rbind.io/2021/08/shiny-in-production/)
+- [R语言工程化](https://engineering-shiny.org/)
+- [Rdebug](http://adv-r.had.co.nz/Exceptions-Debugging.html)
 
 ## python
 
