@@ -28,3 +28,12 @@ PPT
 
 ## python
 
+[pytorch](https://pytorch.org/tutorials/)
+
+[tensorflow](https://www.tensorflow.org/tutorials/quickstart/beginner?hl=zh-cn)
+
+[numpy](https://numpy123.com/article/basics/python_numpy_tutorial/)
+
+[pandas](https://pandas.pydata.org/docs/user_guide/index.html)
+
+[matplotlib](https://matplotlib.org/stable/tutorials/index.html)
