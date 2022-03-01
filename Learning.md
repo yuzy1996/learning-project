@@ -25,6 +25,10 @@ PPT
 - [企业级shiny开发](https://xiangyun.rbind.io/2021/08/shiny-in-production/)
 - [R语言工程化](https://engineering-shiny.org/)
 - [Rdebug](http://adv-r.had.co.nz/Exceptions-Debugging.html)
+- [Seurat](https://satijalab.org/seurat/articles/)
+- [R量化交易](https://ask.hellobi.com/blog/R_shequ/5941)
+- [R包quantmod](http://www.quantmod.com/)：量化
+- [R包rvest](https://rvest.tidyverse.org/)：爬虫
 
 ## python
 
@@ -37,3 +41,19 @@ PPT
 [pandas](https://pandas.pydata.org/docs/user_guide/index.html)
 
 [matplotlib](https://matplotlib.org/stable/tutorials/index.html)
+
+[scanpy](https://scanpy.readthedocs.io/en/stable/tutorials.html)
+
+
+
+# perl
+
+[perl中文](https://www.runoob.com/perl/perl-tutorial.html)
+
+[perl社区](https://www.perl.org/community.html)
+
+# Rust
+
+[Rust官网](https://www.rust-lang.org/zh-CN/)
+
+[Rust中文](https://www.runoob.com/rust/rust-tutorial.html)
