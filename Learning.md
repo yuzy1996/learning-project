@@ -29,6 +29,8 @@ PPT
 - [R量化交易](https://ask.hellobi.com/blog/R_shequ/5941)
 - [R包quantmod](http://www.quantmod.com/)：量化
 - [R包rvest](https://rvest.tidyverse.org/)：爬虫
+- [shiny部署](https://engineering-shiny.org/golem.html)
+- [shiny打包](https://chasemc.github.io/electricShine/)
 
 ## python
 
@@ -44,7 +46,9 @@ PPT
 
 [scanpy](https://scanpy.readthedocs.io/en/stable/tutorials.html)
 
+[pycharm调试](https://www.zhihu.com/question/37787004)
 
+[python3.10.2](https://docs.python.org/zh-cn/3/tutorial/index.html)
 
 # perl
 
