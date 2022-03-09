@@ -31,6 +31,12 @@ PPT
 - [R包rvest](https://rvest.tidyverse.org/)：爬虫
 - [shiny部署](https://engineering-shiny.org/golem.html)
 - [shiny打包](https://chasemc.github.io/electricShine/)
+- [R取色器:rPlottter](https://github.com/woobe/rPlotter)
+- [R取色器：colorfider](https://github.com/zumbov2/colorfindr)
+- [R包管家：pacman](https://www.rdocumentation.org/packages/pacman/versions/0.5.1)
+- [R交互绘图：plotly](https://plotly.com/r/)
+- [现代应用统计与R语言](https://bookdown.org/xiangyun/masr/)
+- [javascript-for-R](https://book.javascript-for-r.com/)
 
 ## python
 
