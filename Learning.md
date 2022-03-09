@@ -48,13 +48,31 @@ PPT
 
 [pandas](https://pandas.pydata.org/docs/user_guide/index.html)
 
-[matplotlib](https://matplotlib.org/stable/tutorials/index.html)
+[matplotlib](https://matplotlib.org/stable/tutorials/index.html)：绘图
 
 [scanpy](https://scanpy.readthedocs.io/en/stable/tutorials.html)
 
 [pycharm调试](https://www.zhihu.com/question/37787004)
 
 [python3.10.2](https://docs.python.org/zh-cn/3/tutorial/index.html)
+
+[playwright:自动化](https://playwright.dev/docs/intro)
+
+[robotframework:自动化](https://robotframework.org/)
+
+[pytest:自动化](https://docs.pytest.org/en/7.0.x/)
+
+[scrapy:爬虫](https://scrapy.org/)
+
+[pyspider:爬虫](http://docs.pyspider.org/en/latest/)
+
+[plotly:交互绘图](https://plotly.com/python/)
+
+[seaborn:绘图](https://seaborn.pydata.org/)
+
+[panda:3D](http://www.panda3d.org/)
+
+[python：绘图指南](https://anvil.works/blog/plotting-in-plotly)
 
 # perl
 
@@ -77,3 +95,7 @@ PPT
 [satijalab](https://satijalab.org/)
 
 [aertslab](https://aertslab.org/)
+
+# 编程
+
+[技术漫画](http://turnoff.us/)
