@@ -1,6 +1,6 @@
 # Learning
 
-# soft
+## soft
 
 [Singularity](https://sylabs.io/guides/3.7/user-guide/index.html):容器
 
@@ -37,6 +37,11 @@ PPT
 - [R交互绘图：plotly](https://plotly.com/r/)
 - [现代应用统计与R语言](https://bookdown.org/xiangyun/masr/)
 - [javascript-for-R](https://book.javascript-for-r.com/)
+- [pryr](https://www.rdocumentation.org/packages/pryr/versions/0.1.5)：R包，内存管理
+- [lineprof](https://github.com/hadley/lineprof)：代码消耗了多少时间、内存，释放多少内存
+- 
+
+
 
 ## python
 
@@ -74,19 +79,27 @@ PPT
 
 [python：绘图指南](https://anvil.works/blog/plotting-in-plotly)
 
-# perl
+## perl
 
 [perl中文](https://www.runoob.com/perl/perl-tutorial.html)
 
 [perl社区](https://www.perl.org/community.html)
 
-# Rust
+## Rust
 
 [Rust官网](https://www.rust-lang.org/zh-CN/)
 
 [Rust中文](https://www.runoob.com/rust/rust-tutorial.html)
 
-# lab
+## dos
+
+[power shell](https://docs.microsoft.com/en-us/learn/modules/)
+
+
+
+## linux
+
+## lab
 
 [Dana peer](https://www.mskcc.org/research/ski/labs/dana-pe-er)
 
@@ -96,6 +109,6 @@ PPT
 
 [aertslab](https://aertslab.org/)
 
-# 编程
+## 编程
 
 [技术漫画](http://turnoff.us/)
