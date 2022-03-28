@@ -39,7 +39,11 @@ PPT
 - [javascript-for-R](https://book.javascript-for-r.com/)
 - [pryr](https://www.rdocumentation.org/packages/pryr/versions/0.1.5)：R包，内存管理
 - [lineprof](https://github.com/hadley/lineprof)：代码消耗了多少时间、内存，释放多少内存
-- 
+- [Rcpp](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/rcpp.html):调用C
+- [Rcpp教程](http://adv-r.had.co.nz/Rcpp.html)
+- [Rbase函数](https://www.rdocumentation.org/packages/base/versions/3.6.2)
+- [microbenchmark](https://www.rdocumentation.org/packages/microbenchmark/versions/1.4.9/topics/microbenchmark)：比较读取速度
+- [profvis](https://rstudio.github.io/profvis/):函数查看那一步耗时间
 
 
 
